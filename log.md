@@ -99,3 +99,11 @@
 **Thoughts:** I still have a long way to go when solving problems for a project. Nevertheless, I'll keep grinding.
 
 **Link to work:** [Rock Paper Scissors project TOP] (https://github.com/Yahyaabbakar92/rock_paper_scisors_project)
+
+### Day 13: February 7, 2022
+
+**Today's Progress:** I continued on the TOP curriculum and read upon loops and arrays and also did a few exercises from the resources provided by TOP
+
+**Thoughts:** I may have rushed through the Labels for break/continue on javascript.info and have to revisit it in the future, but I understand the loop types and how arrays work
+
+**Link to work:** [Fundamentals Part 4: Loops and Arrays] (https://github.com/Yahyaabbakar92/top_fundamentals_part4)
