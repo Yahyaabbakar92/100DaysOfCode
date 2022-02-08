@@ -107,3 +107,11 @@
 **Thoughts:** I may have rushed through the Labels for break/continue on javascript.info and have to revisit it in the future, but I understand the loop types and how arrays work
 
 **Link to work:** [Fundamentals Part 4: Loops and Arrays] (https://github.com/Yahyaabbakar92/top_fundamentals_part4)
+
+### Day 14: February 8, 2022
+
+**Today's Progress:** I read on TDD (test driven development) and managed just a couple of exercises
+
+**Thoughts:** TDD of top were slightly tricky, but manageable.
+
+**Link to work:**
