@@ -115,3 +115,11 @@
 **Thoughts:** TDD of top were slightly tricky, but manageable.
 
 **Link to work:**
+
+### Day 15 & 16: February 9-10, 2022
+
+**Today's Progress:** Yesterday I wasn't able to do any coding but today I started reading and doing some exercises on DOM manipulation from the TOP curriculum
+
+**Thoughts:** There are so many methods and thus far I've only come across a few
+
+**Link to work:** [DOM manipulation and Events] (https://github.com/Yahyaabbakar92/DOM_manipulation_and_events)
