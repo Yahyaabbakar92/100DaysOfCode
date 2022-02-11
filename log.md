@@ -123,3 +123,11 @@
 **Thoughts:** There are so many methods and thus far I've only come across a few
 
 **Link to work:** [DOM manipulation and Events] (https://github.com/Yahyaabbakar92/DOM_manipulation_and_events)
+
+### Day 17: February 11, 2022
+
+**Today's Progress:** I read about JS events and followed along Wes Bos's javascript 30 course as part of the TOP curriculum.
+
+**Thoughts:** I need to read the extra resources provided by TOP on both event handling and DOM manipulation
+
+**Link to work:** [DOM manipulation and Events] (https://github.com/Yahyaabbakar92/DOM_manipulation_and_events)
