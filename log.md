@@ -131,3 +131,11 @@
 **Thoughts:** I need to read the extra resources provided by TOP on both event handling and DOM manipulation
 
 **Link to work:** [DOM manipulation and Events] (https://github.com/Yahyaabbakar92/DOM_manipulation_and_events)
+
+### Day 18: February 12, 2022
+
+**Today's Progress:** I had limited time and I spent most of it coding along a tutorial about DOM manipulation and event handling
+
+**Thoughts:** I believe I will need a little more time trying to grasp these concepts
+
+**Link to work:** [
