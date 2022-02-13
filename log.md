@@ -138,4 +138,12 @@
 
 **Thoughts:** I believe I will need a little more time trying to grasp these concepts
 
-**Link to work:** [
+**Link to work:**
+
+### Day 19: February 13, 2022
+
+**Today's Progress:** Watched two parts of Traversy Media's crash course on the DOM
+
+**Thoughts:** Understood the methods used to select elements, classes, tags and id's in the DOM
+
+**Link to work:**
