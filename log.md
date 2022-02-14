@@ -147,3 +147,11 @@
 **Thoughts:** Understood the methods used to select elements, classes, tags and id's in the DOM
 
 **Link to work:**
+
+### Day 20: February 14, 2022
+
+**Today's Progress:** Continued to watch tutorials on how events are handled in JS to try and see how the work in a practical project setting
+
+**Thoughts:** Finally started making sense of how events work to make JS more dynamic. Will need to start applying to my own projects in the coming days
+
+**Link to work:**
