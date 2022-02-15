@@ -155,3 +155,11 @@
 **Thoughts:** Finally started making sense of how events work to make JS more dynamic. Will need to start applying to my own projects in the coming days
 
 **Link to work:**
+
+### Day 21: February 15, 2022
+
+**Today's Progress:** Created a small app that adds, removes and filters items by coding along to Brad Traversy content
+
+**Thoughts:** Maybe because I'm sort of rushing through that, I did understand but also did not understand
+
+**Link to work:** [DOM manipulation and Events] (https://github.com/Yahyaabbakar92/DOM_manipulation_and_events)
